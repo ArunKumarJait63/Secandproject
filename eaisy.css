@@ -1,0 +1,22 @@
+body{
+    margin: 50px 35em 0px 30em;
+    padding:0em 4em 1px 3px;
+    background-color:rgb(222, 234, 224);
+}
+.field-set{
+    
+    border-style: solid;
+    border-width: 8px;
+    border-color:rgb(44, 65, 44);
+    background-color: darkolivegreen;
+}
+legend{
+    background-color: rgb(44, 65, 44);
+    color: #e7e0e0;
+    padding: 1% 4%;   
+}
+
+.btn{
+    border-radius: 5px;
+    font-size: inherit;
+}
